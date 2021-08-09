@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://weiwei157155.github.io</id>
     <title>晚晴幽草轩</title>
-    <updated>2021-07-31T10:02:35.759Z</updated>
+    <updated>2021-08-09T10:30:33.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://weiwei157155.github.io"/>
     <link rel="self" href="https://weiwei157155.github.io/atom.xml"/>
@@ -10,4 +10,18 @@
     <logo>https://weiwei157155.github.io/images/avatar.png</logo>
     <icon>https://weiwei157155.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 晚晴幽草轩</rights>
+    <entry>
+        <title type="html"><![CDATA[Adobe CC 2020全套下载]]></title>
+        <id>https://weiwei157155.github.io/post/adobe-cc-2020-quan-tao-xia-zai/</id>
+        <link href="https://weiwei157155.github.io/post/adobe-cc-2020-quan-tao-xia-zai/">
+        </link>
+        <updated>2021-08-09T10:24:28.000Z</updated>
+        <content type="html"><![CDATA[<p>Adobe 2020系列正式移除了对Flash的支持。所有与Flash有关的功能组件被移除，FLV、F4V、SWF文件已无法在2020系列中使用。 ​​​​</p>
+<p>软件均为SP集成破解一键安装，最低要求Win 10 x64系统 ​​​​</p>
+<p>安装个别软件有闪退现象：需要安装ACC,也就是“Adobe Creative Cloud”，客户端即可。 ​​​​</p>
+<p>文件解压密码@vposy</p>
+<p>下载链接：https://mdl.ink/O2q51B Win版<br>
+下载链接：https://mdl.ink/BNewsP Mac版</p>
+]]></content>
+    </entry>
 </feed>
