@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://weiwei157155.github.io</id>
     <title>晚晴幽草轩</title>
-    <updated>2021-08-10T08:28:04.658Z</updated>
+    <updated>2021-08-10T09:49:21.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://weiwei157155.github.io"/>
     <link rel="self" href="https://weiwei157155.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://weiwei157155.github.io/images/avatar.png</logo>
     <icon>https://weiwei157155.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 晚晴幽草轩</rights>
+    <entry>
+        <title type="html"><![CDATA[关于分享链接]]></title>
+        <id>https://weiwei157155.github.io/post/guan-yu-fen-xiang-lian-jie/</id>
+        <link href="https://weiwei157155.github.io/post/guan-yu-fen-xiang-lian-jie/">
+        </link>
+        <updated>2021-08-10T08:28:51.000Z</updated>
+        <content type="html"><![CDATA[<p>一切分享链接例如：百度云盘 分秒帧 需要登录的分享链接均为官方提供，不含任何后门。请放心登录。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迅雷 免登录享VIP不限速]]></title>
         <id>https://weiwei157155.github.io/post/xun-lei-mian-deng-lu-xiang-vip-bu-xian-su/</id>
